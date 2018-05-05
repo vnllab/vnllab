@@ -32,5 +32,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-  
-include: ['.htaccess']
+plugins:
+    - jekyll-paginate
+    - jekyll-redirect-from
