@@ -4,8 +4,8 @@ permalink: /top-10-suchmaschinenoptimierung/
 ---
 
 
-<meta http-equiv="refresh" content="0; url=/services/wordpress-wiesbaden">
-<link rel="canonical" href="/services/wordpress-wiesbaden" />
+<meta http-equiv="refresh" content="0; url=/optimierung-für-suchmaschinen">
+<link rel="canonical" href="/optimierung-für-suchmaschinen" />
 
 <!-- styles.css Link -->
 <link rel="stylesheet" href="/style.css">
