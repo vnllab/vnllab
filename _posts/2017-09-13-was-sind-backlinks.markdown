@@ -12,7 +12,7 @@ description: Das ganze Backlink Thema kann manchmal verwirrend sein. Wir erklär
 
 <h1 class="entry-title-content">{{ page.title }}</h1>
 
-<img src="/img/backlinks-erklärung-bild.jpg" alt="UI-Design-Tipps-100">
+<img src="/img/backlinks-erklaerung-bild.jpg" alt="was-sind-backlinks">
 
 Wie funktioniert das eigentlich mit diesen Backlinks? Sollte man die eher kaufen oder verdienen? Freiwillig gibt doch niemand einem einen Backlink, oder?
 
