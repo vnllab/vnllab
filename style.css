@@ -200,10 +200,7 @@ nav ul {
     text-align: left;
     line-height: 1.6em; }
 
-#area1 {
-background-image: url(//vnllab.com/wp-content/themes/celonawebdesign/../celonawebdesign/assets/img/patternarea.png);
-background-size: 350px;
-display: -webkit-box;}
+
 
 
      #area1 .wrapper {
@@ -248,8 +245,6 @@ font-size: 1.1em; }}
 
 
 #area4 {
-background-image: url(//vnllab.com/wp-content/themes/celonawebdesign/../celonawebdesign/assets/img/patternarea.png);
-background-size: 350px;
   display: -webkit-box;
   padding-bottom: 1em;}
 
@@ -731,7 +726,6 @@ display: flex;
 
 .blog {
     background-color: #fdfdfd;
-        background-image: url(//vnllab.com/wp-content/themes/celonawebdesign/../celonawebdesign/assets/img/patternarea.png);
     background-size: 350px;
 }
 
@@ -824,8 +818,6 @@ line-height: 1.5rem;
  flex-direction: column;
  align-items: center;
  padding-top: 5em;
- background-image: url(//vnllab.com/wp-content/themes/celonawebdesign/../celonawebdesign/assets/img/patternarea.png);
-background-size: 350px;
 }
 
  .post-div-rechts  {
@@ -1874,8 +1866,6 @@ color: #4eaaed;
 .full {
     text-align: center;
     padding: 1em;
-    background-image: url(//vnllab.com/wp-content/themes/celonawebdesign/../celonawebdesign/assets/img/patternarea.png);
-    background-size: 350px;
 }
 
 
@@ -2038,8 +2028,6 @@ text-decoration: underline;
 #hero-null {
     text-align: center;
     padding: 6em 4em 0em 4em;
-    background-image: url(../celonawebdesign/assets/img/patternarea.png);
-    background-size: 350px;
     margin-bottom: 0em; }
   #hero-null .description {
     font-family: AvenirNext-Bold;
@@ -2095,9 +2083,7 @@ h2 {
     padding: 2em 0em 2em 0em;
     max-width: 90%;
     width: 1350px;
-    margin: 0 auto;
-    background-image: url(../celonawebdesign/assets/img/patternarea.png);
-    background-size: 350px;}
+    margin: 0 auto;}
 
 
   #area-two .wrapper-right {
@@ -2184,10 +2170,7 @@ box-shadow: 1px 1px 8px #9a9a9a;
 }
 
 
-#wordpress {
-    background-image: url(../celonawebdesign/assets/img/patternarea.png);
-    background-size: 350px;
-}
+
 
 
 #wordpress .wrapper {
@@ -2209,8 +2192,6 @@ box-shadow: 1px 1px 8px #9a9a9a;
     width: 850px;
     max-width: 90%;
     margin: 4em auto;
-    background-image: url(../celonawebdesign/assets/img/patternarea.png);
-    background-size: 350px;
     flex-direction: column;
 }
 
