@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 <h1 class="entry-title-content">{{ page.title }}</h1>
 
 
-<img src="/img/verschiedene-städte-ranken.jpg" alt="optimierung-fuer-verschiedene-städte">
+<img src="/img/verschiedene-staedte-ranken.jpg" alt="optimierung-fuer-verschiedene-städte">
 
 Ist es eigentlich möglich, für verschiedene Städte gleichzeitig zu ranken? Was ist mit Städten in meiner Nähe und was ist, wenn ich eigentlich gar keinen richtigen <a href="https://de.wikipedia.org/wiki/Verkaufsraum" target="_blank" rel="noopener">Verkaufsraum</a> besitze? SEO Optimierung auf mehrere Städte gleichzeitig, ist nicht immer ganz einfach.
 
