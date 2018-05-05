@@ -4,16 +4,8 @@ permalink: /top-10-suchmaschinenoptimierung/
 ---
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-85993724-7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-85993724-7');
-</script>
-
+<meta http-equiv="refresh" content="0; url=/services/wordpress-wiesbaden">
+<link rel="canonical" href="/services/wordpress-wiesbaden" />
 
 <!-- styles.css Link -->
 <link rel="stylesheet" href="/style.css">
@@ -31,6 +23,3 @@ permalink: /top-10-suchmaschinenoptimierung/
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-
-</head>
-<body>
