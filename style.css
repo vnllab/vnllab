@@ -741,7 +741,7 @@ display: flex;
  justify-content: center;
  max-width: 90%;
  width: 1100px;
- margin: 80px auto;
+ margin: 0 auto;
  margin-bottom: 0px;
 }
 
@@ -2040,7 +2040,7 @@ text-decoration: underline;
     padding: 6em 4em 0em 4em;
     background-image: url(../celonawebdesign/assets/img/patternarea.png);
     background-size: 350px;
-    margin-bottom: 3em; }
+    margin-bottom: 0em; }
   #hero-null .description {
     font-family: AvenirNext-Bold;
     font-size: 1.1em;
@@ -2071,7 +2071,7 @@ text-decoration: underline;
 
 #hero-null {
     padding: 1em 1em 1em 1em;
-    margin-bottom: 3em; }
+    margin-bottom: 0em; }
 
   #hero-null .description {
     font-size: 1.1em;
