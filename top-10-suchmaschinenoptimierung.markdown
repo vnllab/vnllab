@@ -1,0 +1,36 @@
+---
+title: top10
+permalink: /top-10-suchmaschinenoptimierung/
+---
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-85993724-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-85993724-7');
+</script>
+
+
+<!-- styles.css Link -->
+<link rel="stylesheet" href="/style.css">
+
+<!-- font Link -->
+<link href="https://fonts.googleapis.com/css?family=Dosis:300,400,700" rel="stylesheet">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
+
+<!-- charset -->
+<meta charset="UTF-8">
+
+<!-- Responsive Shizz -->
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
