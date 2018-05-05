@@ -5,7 +5,7 @@ date:   2017-11-04 21:08:27
 time: 2017-11-04
 categories: webdesign
 author: Lukasz Adam
-permalink: /seo-dieses-jahr
+permalink: /seo-dieses-jahr/
 excerpt_separator: <!--more-->
 description: Heute schreibe ich über zehn sehr wichtige Faktoren, die dieses Jahr eine besonders große Rolle spielen. 2018 bedeutet SEO mehr als nur Backlinks und Keywords. Damit du nichts davon verpasst, hier mein effektiver Guide für 2018.
 
