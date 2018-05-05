@@ -13,7 +13,7 @@ description: Webdesign Trends 2018 | User Interface Design Tipps [vnllab.com]
 <h1 class="entry-title-content">{{ page.title }}</h1>
 
 
-<img src="/img/UI-Design-Tipps-100.jpg" alt="UI-Design-Tipps-100">
+<img src="/img/webdesign-tipps.jpg" alt="UI-Design-Tipps-100">
 
 
 Oft reichen nur Kleinigkeiten aus, um das Design einer Webseite zu verbessern.
