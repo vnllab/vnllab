@@ -1,0 +1,71 @@
+---
+# this is an empty front matter
+---
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<title>WordPress Service für Wiesbaden [vnllab.com]</title>
+
+
+{% include header.html %}
+
+
+
+{% include nav.html %}
+
+
+
+
+
+<section id="hero-null">
+
+	<p class="description">Mein blog.</p>
+	<h1>SEO Marketing, Webdesign & mehr.</h1>
+
+</section>
+
+
+
+    <section id="blog">
+        <div class="blog-wrapper">
+
+          <ul class="blog-list">
+            {% for post in site.posts %}
+              <li class="post">
+                {{ post.excerpt }}
+
+             <a class="more" href="{{ site.baseurl }}{{ post.url }}">mehr..</a>
+
+             </li>
+            {% endfor %}
+          </ul>
+
+
+
+
+        </div>
+
+
+<div class="sidebar">
+
+    <aside id="secondary" class="widget-area" role="complementary">
+
+    </aside><!-- #secondary -->
+
+</div>
+
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+{% include footer.html %}

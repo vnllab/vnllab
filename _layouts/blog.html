@@ -1,0 +1,55 @@
+{% include header.html %}
+
+{% include nav.html %}
+
+
+
+<div class="post-div-rechts-content">
+
+	<header class="entry-header">
+
+
+
+
+<div class="post-details-content">
+
+	<div id="time-content">
+
+<div class="div">
+		<i class="fas fa-user"></i>
+			{{ page.author }}
+</div>
+
+<div class="div">
+		 <i class="fas fa-clock"></i>
+			<time>{{ page.time }}</time>
+</div>
+
+	<div class="div">
+			<i class="fas fa-bookmark"></i>
+			{{ page.categories }}
+</div>
+
+
+</div>
+
+
+
+</div> <!-- post-details -->
+
+</header><!-- .entry-header -->
+
+
+<div class="post-body">
+	{{ content }}
+</div>
+
+</div>
+
+
+
+
+</div>
+
+
+{% include footer.html %}
