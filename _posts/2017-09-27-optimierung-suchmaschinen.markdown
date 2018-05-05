@@ -5,7 +5,7 @@ date:   2018-01-17 22:04:27
 time: 2018-01-17
 categories: webdesign
 author: Lukasz Adam
-permalink: /optimierung-für-suchmaschinen
+permalink: /optimierung-für-suchmaschinen/
 excerpt_separator: <!--more-->
 description: Skyscraper Technique, Interne Links oder potentielle Verlinker. Nutzt die effektivsten SEO Methoden um deiner Website ein besseres Ranking zu verschaffen. Jede möchte unter die Top 10 und ich zeige dir, wie solch eine Suchmaschinenoptimierung aussehen muss.
 

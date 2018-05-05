@@ -5,7 +5,7 @@ date:   2017-08-21 22:04:27
 time: 2018-01-17
 categories: webdesign
 author: Lukasz Adam
-permalink: /optimierung-verschiedene-staedte
+permalink: /optimierung-verschiedene-staedte/
 excerpt_separator: <!--more-->
 ---
 

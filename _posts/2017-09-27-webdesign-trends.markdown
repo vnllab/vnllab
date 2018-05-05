@@ -5,7 +5,7 @@ date:   2018-01-17 22:04:27
 time: 2018-01-17
 categories: webdesign
 author: Lukasz Adam
-permalink: /webdesign-trends
+permalink: /webdesign-trends/
 excerpt_separator: <!--more-->
 description: Webdesign Trends 2018 | User Interface Design Tipps [vnllab.com]
 ---

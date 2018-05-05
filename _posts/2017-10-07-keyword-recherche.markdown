@@ -5,7 +5,7 @@ date:   2017-10-17 22:04:27
 time: 2017-10-17
 categories: webdesign
 author: Lukasz Adam
-permalink: /keyword-recherche
+permalink: /keyword-recherche/
 excerpt_separator: <!--more-->
 description: Bei all der Diskussion um “Content ist King” und den Signalen der sozialen Netzwerke, vergessen manche oft eine umfassende Keywords Analyse durchzuführen. Heute zeige ich euch wie leicht man wertvolle Keywords finden kann. Keywords Recherche ohne Kosten.
 

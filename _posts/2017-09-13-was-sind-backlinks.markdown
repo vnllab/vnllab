@@ -5,7 +5,7 @@ date:   2017-09-13 22:04:27
 time: 2018-01-17
 categories: webdesign
 author: Lukasz Adam
-permalink: /was-sind-backlinks
+permalink: /was-sind-backlinks/
 excerpt_separator: <!--more-->
 description: Das ganze Backlink Thema kann manchmal verwirrend sein. Wir erklären es innerhalb weniger Minuten so, dass ihr es nie wieder vergesst.
 ---

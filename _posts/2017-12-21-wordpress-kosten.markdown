@@ -5,7 +5,7 @@ date:   2017-12-04 21:08:27
 time: 2017-11-04
 categories: webdesign
 author: Lukasz Adam
-permalink: /wordpress-kosten
+permalink: /wordpress-kosten/
 excerpt_separator: <!--more-->
 description: Manchmal hören wir, dass WordPress kostenlos ist, andere male hören wir dann es entstehen doch kosten. Wie sieht das denn jetzt nun aus? Mit diesem Post möchte ich euch zeigen, warum WordPress an sich nichts kostet, was aber auf euch zu kommt, wenn ihr es nutzen wollt.
 

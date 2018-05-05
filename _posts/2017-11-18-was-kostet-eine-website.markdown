@@ -5,7 +5,7 @@ date:   2017-11-18 22:04:27
 time: 2017-11-18
 categories: webdesign
 author: Lukasz Adam
-permalink: /was-kostet-eine-website
+permalink: /was-kostet-eine-website/
 excerpt_separator: <!--more-->
 description: Persönliches Design oder einfaches WordPress Theme? Was passt am Besten zu mir und was kostet eine Website eigentlich? Hosting, Designer, Entwickler, das muss doch alles sehr teuern sein, richtig? Falsch. Wir zeigen was man braucht und was nicht.
 

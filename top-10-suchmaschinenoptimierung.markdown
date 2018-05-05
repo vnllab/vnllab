@@ -1,5 +1,5 @@
 ---
-title: top10
+title: Weiterleitung
 permalink: /top-10-suchmaschinenoptimierung/
 ---
 
