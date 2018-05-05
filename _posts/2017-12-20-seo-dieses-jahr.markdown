@@ -89,7 +89,7 @@ Die durchschnittliche Zeit die ein zufriedener Nutzer auf einer Website verbring
 
 Mit Rank Brain wird also gemessen, welche Ergebnisse angeklickt werden, wie lange User auf der Website bleiben und wann sie sie verlassen. Für uns Webmaster heißt das also, wir sollten unsere Besucher so lange wie nur möglich auf der Website halten. Das schaffen wir natürlich nur mit gutem Inhalt.
 
-Bei meinem <a href="https://vnllab.com/webdesign-wiesbaden/" rel="noopener" target="_blank">Webdesign Service aus Wiesbaden</a>, achte ich deshalb immer auf eine gute User Experience. Nur mit einer angenehmen Benutzerfreundlichkeit, kann man die Dwell Time verkürzen.
+Bei meinem <a href="https://vnllab.com/service/webdesign-wiesbaden/" rel="noopener" target="_blank">Webdesign Service aus Wiesbaden</a>, achte ich deshalb immer auf eine gute User Experience. Nur mit einer angenehmen Benutzerfreundlichkeit, kann man die Dwell Time verkürzen.
 
 <h2 class="blog-titel">2. Die 3 Säulen des SEO Marketings 2018</h2>
 
@@ -314,7 +314,7 @@ Wenn man beachtet, dass Youtube Google gehört, wird das 2018 wohl noch stärker
 
 Schon heute können wir unter den Bild-Suchergebnissen, sehr oft YouTube Videos beobachten.
 
-Am Besten, man bettet seine Videos direkt in Blog-Artikel oder in Webseiten ein. Bei meinem <a href="http://vnllab.com/seo/" target="_blank" rel="noopener">SEO Service</a>, habe ich das z.B. mit ein paar <strong>On-Page SEO Tipps</strong> gemacht.
+Am Besten, man bettet seine Videos direkt in Blog-Artikel oder in Webseiten ein. Bei meinem <a href="http://vnllab.com/service/seo/" target="_blank" rel="noopener">SEO Service</a>, habe ich das z.B. mit ein paar <strong>On-Page SEO Tipps</strong> gemacht.
 
 <h2 class="blog-titel">7. Keywods und Anchortext für Links</h2>
 Ich selbst hab mich oft dabei erwischt, wie ich die genauen Keywords in den Anchor Text gepackt habe. 2018 sollte man das aber etwas anders machen. In dem Anchor-Text sollte man beschreiben, was sich auf der Seite befindet zu der man verlinkt. Das Keyword für das man ranken möchte, packt man dann einfach in die Nähe des Links. Also nicht so:
