@@ -755,6 +755,14 @@ color: #525252;
 margin: 2em;
 }
 
+.entry-title-content {
+font-size: 2rem;
+line-height: 2.5rem;
+margin: 0px;
+margin-bottom: 30px;
+color: #535353;
+}
+
  @media only screen and (max-width: 500px) {
 
 #blog  {
@@ -777,10 +785,7 @@ line-height: 1.5rem;
       margin: 0em;
       box-sizing: border-box;
       margin-bottom: 1em;
-}
-
-
-}
+}}
 
 .blog-list {
   list-style: none;
@@ -894,13 +899,7 @@ max-width: 100%;
  margin-bottom: 10px;
 }
 
-.entry-title-content {
-font-size: 2rem;
-line-height: 2.5rem;
-margin: 0px;
-margin-bottom: 30px;
-color: #535353;
-}
+
 
 #title-blog {
  color: #535353;
