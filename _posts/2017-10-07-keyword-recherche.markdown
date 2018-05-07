@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "Keyword Recherche – Schnelles Ranking mit den richtigen Keywords"
+title:  Keyword Recherche | einfach Keywords finden - vnllab.com
 date:   2017-10-17 22:04:27
 time: 2017-10-17
 categories: webdesign
@@ -11,7 +11,7 @@ description: Bei all der Diskussion um “Content ist King” und den Signalen d
 
 ---
 
-<h1 class="entry-title-content">{{ page.title }}</h1>
+<h1 class="entry-title-content">Wie finde ich die richtigen Keywords?</h1>
 
 <img src="/img/keyword-recherche-banner.jpg" alt="keyword-recherche" title="keyword-recherche">
 
