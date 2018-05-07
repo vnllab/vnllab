@@ -32,14 +32,15 @@
         <div class="blog-wrapper">
 
           <ul class="blog-list">
-
+<time datetime="{{ page.time }}" itemprop="datePublished" title="{{ page.time }}">{{ post.time }}</time>
+<hr>
             {% for post in site.posts %}
 
 
               <li class="post">
                 {{ post.excerpt }}
 
-								{{ post.time }}
+
 
 
              <a class="more" href="{{ site.baseurl }}{{ post.url }}">mehr..</a>
