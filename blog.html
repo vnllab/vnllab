@@ -32,9 +32,10 @@
         <div class="blog-wrapper">
 
           <ul class="blog-list">
-<time datetime="{{ page.time }}" itemprop="datePublished" title="{{ page.time }}">{{ post.time }}</time>
-<hr>
+
             {% for post in site.posts %}
+						<time datetime="{{ post.time }}" itemprop="datePublished" title="{{ post.time }}">{{ post.time }}</time>
+						<hr>
 
 
               <li class="post">
