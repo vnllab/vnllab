@@ -15,15 +15,15 @@ description: Bei all der Diskussion um “Content ist King” und den Signalen d
 
 <img src="/img/keyword-recherche-banner.jpg" alt="keyword-recherche" title="keyword-recherche">
 
-Das gefährliche an der Keyword-Recherche ist: Wenn man sie nicht richtig durchführt, optimiert man wochenlang eine Website, nur um am Ende rauszufinden, dass niemand diese Wörter googelt.
-
+<p>Das gefährliche an der Keyword-Recherche ist: Wenn man sie nicht richtig durchführt, optimiert man wochenlang eine Website, nur um am Ende rauszufinden, dass niemand diese Wörter googelt.
+<br>
 Glücklicherweise, gibt es ein paar Tricks mit denen du schnell rausfinden kannst, welche <a href="https://de.wikipedia.org/wiki/Keyword_(Online-Marketing)" rel="noopener" target="_blank">Keywords</a> wertvoll sind und welche nicht.
-
+<br>
 Mit diesem Artikel, zeige ich Dir Schritt für Schritt, wie du solche Keywords findest und wie du rausfinden kannst, ob diese Keywords auch wirklich von genügend Leuten gegoogelt werden.
-
+<br>
 <strong>Das beste daran:</strong>
-
-Dafür musst du kein bezahltes Keyword-Tool nutzen.
+<br>
+Dafür musst du kein bezahltes Keyword-Tool nutzen.</p>
 
 <!--more-->
 
