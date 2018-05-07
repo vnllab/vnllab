@@ -331,7 +331,7 @@ Diese Inhaltsverzeichnis selbst ist nochmal in verschiedene Bereiche aufgeteilt.
 &nbsp;
 <h2>Tipp #6:Rausfinden was die Zielgruppe interessiert - mit Quora</h2>
 
-<img src="/img/quora-für-keywords-banner.jpg" alt="quora-für-keywords-banner" width="799" height="217" class="alignnone size-full wp-image-1182" />
+<img src="/img/quora-fuer-keywords-banner.jpg" alt="quora-für-keywords-banner" width="799" height="217"/>
 
 <a href="https://de.quora.com/" rel="noopener" target="_blank">Quora</a> eignet sich für die Keyword Suche sehr gut. Quora ist eine Frage-Antwort Community, welche in verschiedene Bereiche unterteilt ist.
 
