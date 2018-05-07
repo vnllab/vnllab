@@ -1,2 +1,9 @@
 # Redirects from what the browser requests to what we serve
-/seo-wiesbaden            /service/seo-wiesbaden
+
+/seo-wiesbaden/                  /service/seo-wiesbaden
+/webdesign-wiesbaden/            /service/webdesign-wiesbaden
+/wordpress-wiesbaden/            /service/wordpress-wiesbaden
+/webentwicklung-wiesbaden/       /service/webentwicklung-wiesbaden
+
+
+/top-10-suchmaschinenoptimierung/           /optimierung-für-suchmaschinen/
