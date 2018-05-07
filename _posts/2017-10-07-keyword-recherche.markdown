@@ -391,7 +391,7 @@ So konnte ich rausfinden, dass der Begriff UI Design (Rot) aktuell an Beliebthei
 &nbsp;
 <h2>Tipp #8:Ähnliche Suchanfragen: Kostenlose Keywords</h2>
 
-<img src="/img/ähnliche-suchanfragen-banner.jpg" alt="ähnliche-suchanfragen-banner" width="799" height="217"/>
+<img src="/img/aehnliche-suchanfragen-banner.jpg" alt="ähnliche-suchanfragen-banner" width="799" height="217"/>
 
 Eine weitere Goldmine für Keywords sind Googles "Ähnliche Suchanfragen". Dort zeigt Google Dir ebenfalls an, nach was andere User gegoogelt haben.
 
