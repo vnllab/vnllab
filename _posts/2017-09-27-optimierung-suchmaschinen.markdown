@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "Optimierung für Suchmaschinen | Insider Tipps - vnllab.com"
+title:  Optimierung für Suchmaschinen | Insider Tipps - vnllab.com
 date:   2018-01-17 22:04:27
 time: 2018-01-17
 categories: webdesign
