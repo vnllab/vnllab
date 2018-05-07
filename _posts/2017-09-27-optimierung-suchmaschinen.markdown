@@ -13,18 +13,16 @@ description: Skyscraper Technique, Interne Links oder potentielle Verlinker. Nut
 
 <h1 class="entry-title-content">{{ page.title }}</h1>
 
-<img src="/img/Top-10-Suchmaschinenoptimierung.jpg" alt="Top-10-Suchmaschinenoptimierung">
+<img src="/img/optimierung-für-suchmaschinen-titelbild.jpg" alt="optimierung-für-suchmaschinen-titelbild" title="optimierung-für-suchmaschinen">
 
 
-Heute zeige ich dir, mit welcher einfachen SEO Optimierung ich es geschafft habe, innerhalb kürzester Zeit unter den <strong>Top 10 Suchergebnissen zu erscheinen.</strong>
-
-Das alles ohne vorher Backlinks generiert zu haben.
+Heute zeige ich dir, wie man eine Webseite innerhalb kürzester Zeit für Suchmaschinen optimiert.
 
 <strong>Was dich am meisten freuen wird:</strong>
 
-Diese Tipps funktionieren und du kannst diese Technik ganz leicht selbst anwenden.
+Das alles ohne vorher Backlinks generiert zu haben. Diese Tipps funktionieren und du kannst diese Technik ganz leicht selbst anwenden.
 
-Lass mich dir also Schritt für Schritt alles zeigen.
+Lass mich dir also Schritt für Schritt wie es funktioniert.
 
 <!--more-->
 
@@ -36,13 +34,13 @@ Den Artikel findest du ebenfalls als Audio-Datei und eine Zusammenfassung findes
 
 <h2>#1: On-Page SEO: Die optimale Website</h2>
 
-<img src="/img/on-page-seo-banner0.jpg" alt="on-page-seo-banner" width="799" height="217" class="alignnone size-full wp-image-1229" />
+<img src="/img/on-page-seo-banner0.jpg" alt="on-page-seo-banner" width="799" height="217"/>
 
 <a href="https://de.wikipedia.org/wiki/Suchmaschinenoptimierung#Onpage-Optimierung" rel="noopener" target="_blank">On-Page SEO</a> scheint manchmal sehr kompliziert zu sein, es gibt so vieles auf das man achten muss.
 
-So muss es aber nicht sein, im Prinzip ist es ganz einfach. Damit On-Page SEO funktioniert, muss man nur wenige Dinge beachten.
+So muss es aber nicht sein, im Prinzip ist es ganz einfach. Damit On-Page SEO funktioniert, muss man nur ein paar Dinge beachten.
 
-Geh am Besten folgende Schritte durch:
+Fangen wir wie folgt an:
 
 <h3 class="point">1. Öffne ein neues Dokument auf dem PC oder nimm Papier und Stift zur Hand.</h3>
 
