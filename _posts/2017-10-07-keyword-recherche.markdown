@@ -13,8 +13,7 @@ description: Bei all der Diskussion um “Content ist King” und den Signalen d
 
 <h1 class="entry-title-content">{{ page.title }}</h1>
 
-<img src="/img/keyword-recherche-banner.jpg" alt="was-kostet-eine-website-banner">
-
+<img src="/img/keyword-recherche-banner.jpg" alt="keyword-recherche" title="keyword-recherche">
 
 Das gefährliche an der Keyword-Recherche ist: Wenn man sie nicht richtig durchführt, optimiert man wochenlang eine Website, nur um am Ende rauszufinden, dass niemand diese Wörter googelt.
 
@@ -32,7 +31,7 @@ Aber von vorn:
 
 <strong>Was ist Keyword-Recherche eigentlich?</strong>
 
-<img src="/img/illustration-keyword-recherche0.jpg" alt="illustration-keyword-recherche0" width="347" height="90" class="alignnone size-full wp-image-1101" />
+<img src="/img/illustration-keyword-recherche0.jpg" alt="illustration-keyword-recherche" width="347" height="90"/>
 
 Einfach gesagt: Keyword-Recherche hilft SEO’s wie mir und dir dabei herauszufinden, für welche Begriffe du deine Seite optimieren solltest.
 
@@ -43,17 +42,17 @@ Wir lernen die Ziele unserer Webseiten-Besucher kennen und wir lernen, welche Fr
 &nbsp;
 <h2>Tipp #1: Nicht zu sehr auf den Google Keyword Planner verlassen.</h2>
 
-<img src="/img/google-keyword-planner-banner0.jpg" alt="google-keyword-planner-banner0" width="799" height="217" class="alignnone size-full wp-image-1148" />
+<img src="/img/google-keyword-planner-banner0.jpg" alt="google-keyword-planner-banner" width="799" height="217"/>
 
 Die meistens beginnen Ihre Keyword-Analyse mit Googles Keyword Planner.
 
 Dort wird erstmal das eingetippt, was einem als erstes einfällt. Ein Juwelier also, tippt beispielsweise einfach ein: Juwelier.
 
-<img src="/img/adwords-keyword-eintippen.png" alt="adwords-keyword-eintippen" width="494" height="682" class="alignnone size-full wp-image-1103" />
+<img src="/img/adwords-keyword-eintippen.png" alt="adwords-keyword-eintippen" width="494" height="682"/>
 
 Das AdWords Tool erstellt dann eine Liste mit ähnlichen Keywords, einem <strong>sehr sehr ungefähren</strong> Suchvolumen und schon entscheiden die meisten nach Bachgefühl welches Keyword passt.
 
-<img src="/img/adwords-ergebnisse-2.png" alt="adwords-keyword-tool-ergebnisse" width="487" height="534" class="alignnone size-full wp-image-1104" />
+<img src="/img/adwords-ergebnisse-2.png" alt="adwords-keyword-tool-ergebnisse" width="487" height="534"/>
 
 Das Problem mit dieser Methode:
 
@@ -84,13 +83,13 @@ Der Keyword-Planner zeigt einem nur ähnliche Variationen eines Keywords an, kei
 
 Google AdWords allerdings, zeigt mir aber folgendes an:
 
-<img src="/img/adwords-ergbnisse-für-ein-keyword.png" alt="adwords-ergbnisse-für-ein-keyword" width="483" height="612" class="alignnone size-full wp-image-1117" />
+<img src="/img/adwords-ergbnisse-für-ein-keyword.png" alt="adwords-ergbnisse-für-ein-keyword" width="483" height="612"/>
 
 Alles ähnliche Variationen, aber keine verwandten Nischen, so wie oben.
 
 Jetzt schauen wir uns mal das Suchvolumen an.
 
-<img src="/img/keyword-planner-suchvolumen.png" alt="keyword-planner-suchvolumen" width="483" height="612" class="alignnone size-full wp-image-1119" />
+<img src="/img/keyword-planner-suchvolumen.png" alt="keyword-planner-suchvolumen" width="483" height="612"/>
 
 <strong>Überall 10. </strong>
 
@@ -100,7 +99,7 @@ Naja, das wäre ziemlich unwahrscheinlich.
 
 Wenn ich eines dieser Keywords jetzt in einem anderen Tool eingebe, welches kostenlos genutzt werden kann (später mehr dazu), bekomme ich folgendes Ergebnis:
 
-<img src="/img/ergebnisse-andere-kewyword-tool.png" alt="ergebnisse anderes keyword tool" width="562" height="113" class="alignnone size-full wp-image-1120" />
+<img src="/img/ergebnisse-andere-kewyword-tool.png" alt="ergebnisse anderes keyword tool" width="562" height="113"/>
 
 <strong>258</strong> also.
 
@@ -118,7 +117,7 @@ Also klicke ich auf den Keyword Planner und vergleiche die beiden Begriffe mitei
 
 Ich bekommen, anschließend folgendes Ergebnis:
 
-<img src="/img/adwords-keyword-konkurrenz-vergleich.png" alt="adwords-keyword-konkurrenz-vergleich" width="953" height="650" class="alignnone size-full wp-image-1121" />
+<img src="/img/adwords-keyword-konkurrenz-vergleich.png" alt="adwords-keyword-konkurrenz-vergleich" width="953" height="650"/>
 
 Laut diesen Zahlen sind beide Keywords anscheinend gleich viel wert.
 
@@ -126,14 +125,14 @@ Laut diesen Zahlen sind beide Keywords anscheinend gleich viel wert.
 
 Wenn ich das gleiche mit Google Trends vergleich, erhalte ich folgendes Ergebnis:
 
-<img src="/img/google-trends-vergleich.png" alt="google-trends-vergleich" width="1362" height="682" class="alignnone size-full wp-image-1122" />
+<img src="/img/google-trends-vergleich.png" alt="google-trends-vergleich" width="1362" height="682"/>
 
 Zu google Trends komme ich später noch einmal, trotzdem zeigt mir auch das, dass der Google Keyword Planner nicht die einzigste Anlaufstelle sein sollte.
 
 &nbsp;
 <h2>Tipp #2: "geheime" Keywords mit Googles Autocomplete Funktion finden.</h2>
 
-<img src="/img/keywords-durch-autocomplete-banner0.jpg" alt="keywords-durch-autocomplete-banner" width="799" height="217" class="alignnone size-full wp-image-1146" />
+<img src="/img/keywords-durch-autocomplete-banner0.jpg" alt="keywords-durch-autocomplete-banner" width="799" height="217"/>
 
 Wahrscheinlich ist es dir bereits aufgefallen, aber wenn du etwas bei Google eintippst, hilft Google dir indem es weitere Begriffe vorschlägt.
 
@@ -145,7 +144,7 @@ Dieses Feature gibt es nun schon länger. Es nennt sich Autocomplete und dessen 
 
 Alle Vorschläge die du erhältst, basieren auf echten Suchanfragen von echten Nutzern. Das gibt uns eine relativ genaue Vorstellung davon, nach was andere suchen.
 
-<img src="/img/google-autocomplete-beispiel-2.png" alt="google-autocomplete-beispiel-2" width="579" height="363" class="alignnone size-full wp-image-1131" />
+<img src="/img/google-autocomplete-beispiel-2.png" alt="google-autocomplete-beispiel-2" width="579" height="363"/>
 
 Zwei weitere Gründe, warum du Autocomplete nutzen solltest:
 
@@ -160,11 +159,11 @@ Ganz einfach.
 
 <h3 class="point">1. Damit Google Autocomplete dir keine Begriffe anzeigt, die du selbst vorher gegoogelt hast, stelle sicher, dass du aus deinem Google Konto ausgeloggt bist.</h3>
 
-<img src="/img/google-account-abgemeldet-screenshot-1.png" alt="google-account-abgemeldet-screenshot" width="458" height="195" class="alignnone size-full wp-image-1128" />
+<img src="/img/google-account-abgemeldet-screenshot-1.png" alt="google-account-abgemeldet-screenshot" width="458" height="195"/>
 
 <h3 class="point">2. Öffne den Incognito-Modus auf deinem Browser.</h3>
 
-<img src="/img/incognito-modus-browser.png" alt="incognito-modus-browser" width="365" height="288" class="alignnone size-full wp-image-1129" />
+<img src="/img/incognito-modus-browser.png" alt="incognito-modus-browser" width="365" height="288"/>
 
 <h3 class="point">3. Öffne Google.</h3>
 
@@ -172,11 +171,11 @@ Ganz einfach.
 
 Zum Beispiel “Webdesigner”
 
-<img src="/img/keyword-in-google-eintippen.png" alt="keyword-in-google-eintippen" width="570" height="497" class="alignnone size-full wp-image-1132" />
+<img src="/img/keyword-in-google-eintippen.png" alt="keyword-in-google-eintippen" width="570" height="497"/>
 
 <h3 class="point">5. Nimm ein Blatt zur Hand, nutze ein leeres Dokument am PC oder die Google Docs.</h3>
 
-<img src="/img/keywords-aufschreiben.png" alt="keywords-aufschreiben-excel" width="413" height="376" class="alignnone size-full wp-image-1133" />
+<img src="/img/keywords-aufschreiben.png" alt="keywords-aufschreiben-excel" width="413" height="376"/>
 
 <h3 class="point">6. Schreib dir alle Keywords auf, die im Autocomplete Modus erscheinen.</h3>
 
