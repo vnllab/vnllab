@@ -156,7 +156,7 @@ Führ diese Keyword Analyse erstmal ohne Jahreszahl aus. Der KWFinder ist eigent
 
 Für unser Beispiel, mache ich erstmal mit Googles Keyword Tool weiter.
 
-<img src="/img/google-keyword-planner.png" alt="google-keyword-planner-ergebnisse" width="919" height="664" class="alignnone size-full wp-image-1007" />
+<img src="/img/google-keyword-planner.png" alt="google-keyword-planner-ergebnisse-screenshot" width="919" height="664" class="alignnone size-full wp-image-1007" />
 
 Googles Keyword-Planner, zeigt mir z.B. an, dass "trendfrisuren 2016" oft gegoogelt wurden.
 
