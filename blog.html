@@ -35,6 +35,7 @@
             {% for post in site.posts %}
               <li class="post">
                 {{ post.excerpt }}
+								<time datetime="{{ page.time }}" itemprop="datePublished" title="{{ page.time }}">{{ page.time }}</time>
 
              <a class="more" href="{{ site.baseurl }}{{ post.url }}">mehr..</a>
 
