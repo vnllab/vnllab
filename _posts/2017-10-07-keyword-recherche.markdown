@@ -409,7 +409,7 @@ So gehst du vor:
 
 3. Dort findest du alle Keywords die Google dir mit "ähnlichen Suchanfragen" vorstellt.
 
-<img class="alignnone size-full wp-image-393" src="/img/ähnliche-Suchanfragen.png" alt="ähnliche Suchanfragen" width="488" height="254" />
+<img class="alignnone size-full wp-image-393" src="/img/aehnliche-Suchanfragen.png" alt="ähnliche Suchanfragen"/>
 
 Jetzt bist du dran, falls deine Keyword Recherche anders aussieht oder falls du noch besser Tipps auf Lager hast, schreib mir in den Kommentaren oder <a href="http://vnllab.com/kontakt/" rel="noopener" target="_blank">schick mir eine Nachricht</a>. Ich freue mich auf deine Ideen und Anregungen.
 
