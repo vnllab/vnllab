@@ -39,10 +39,15 @@
 
 
               <li class="post">
-								
+
 								<div class="div">
 								<i class="fas fa-clock"></i>
 								<time datetime="{{ post.time }}" itemprop="datePublished" title="{{ post.time }}">{{ post.time }}</time>
+								</div>
+
+								<div class="div">
+								<i class="fas fa-user"></i>
+								<span itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"> <span itemprop="name"> {{ post.author }}</span> </span>
 								</div>
 
 								<hr>
