@@ -11,7 +11,7 @@ description: Skyscraper Technique, Interne Links oder potentielle Verlinker. Nut
 
 ---
 
-<h1 class="entry-title-content">{{ page.title }}</h1>
+<h1 class="entry-title-content">Wie optimiere ich meine Website für Suchmaschinen?</h1>
 
 <img src="/img/optimierung-für-suchmaschinen-titelbild.jpg" alt="optimierung-für-suchmaschinen-titelbild" title="optimierung-für-suchmaschinen">
 
