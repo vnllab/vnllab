@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "WordPress Kosten - mit 8 nützlichen Tipps zum WP Profi (Updated 2018)"
+title:  WordPress Kosten - mit 8 nützlichen Tipps zum WP Profi (Updated 2018)
 date:   2017-12-04 21:08:27
 time: 2017-11-04
 categories: webdesign
@@ -13,7 +13,7 @@ description: Manchmal hören wir, dass WordPress kostenlos ist, andere male hör
 
 <h1 class="entry-title-content">{{ page.title }}</h1>
 
-<img src="/img/wordpress-kosten.jpg">
+<img src="/img/wordpress-kosten.jpg" alt="banner-mit-wordpress-logo-und-geld">
 
 Als ich damals anfing mit WordPress zu arbeiten, war ich ziemlich verwirrt.
 
@@ -33,11 +33,11 @@ Am Ende des Artikels wirst Du ein klares Bild davon haben, welche WordPress Kost
 
 Wenn man genau weiß, was man benötigt, kann man viel Geld sparen. Wie bei den <a href="https://vnllab.com/was-kostet-eine-website/" rel="noopener" target="_blank">Kosten einer Website</a>, spielen die eigenen Fähigkeiten auch bei WordPress, eine entscheidende Rolle. (Mehr dazu später)
 
-<h2>Den Blog-Artikel gibt es übrigens auch als Audio-Datei:</h2>
+<h3>Den Blog-Artikel gibt es übrigens auch als Audio-Datei:</h3>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/398514186&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-<h2>Außerdem findest Du die Zusammenfassung auch als YouTube Video:</h2>
+<h3>Außerdem findest Du die Zusammenfassung auch als YouTube Video:</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/si94jhZmfO4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -53,7 +53,7 @@ Open-Source Software bedeutet, man kann WordPress kostenfrei nutzen, den Code be
 
 Trotzdem hängen Kosten mit WordPress zusammen, auch wenn nicht direkt. Welche genau, dazu kommen wir gleich.
 
-<img src="/img/wordpress-kosten-768x496.jpg" alt="wordpress-kosten" width="640" height="413" class="alignnone size-large wp-image-790" />
+<img src="/img/wordpress-kosten-768x496.jpg" alt="geld-illustration" width="640" height="413" class="alignnone size-large wp-image-790" />
 
 <h2>1. WordPress bedeutet Open-Source</h2>
 
