@@ -1,2 +1,13 @@
 User-agent: *
 Disallow: /imoportant.html
+Disallow: /suchmaschinenwerbung/
+Disallow: /blog/page/3
+Disallow: /blog/page/2
+Disallow: /blog/page/4
+Disallow: /erfolgreich-bloggen/
+Disallow: /online-marketing-instrumente/
+
+Disallow: /category/seo/
+Disallow: /keinen-seo-einfluss/
+Disallow: /user-interface-ui-design-tipps-fuer-webseiten-2017/
+Disallow: /user-interface-ui-design-tipps-fuer-webseiten-2017/ui-design-tipp-8/
