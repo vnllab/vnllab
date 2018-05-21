@@ -26,6 +26,11 @@ Lass mich dir also Schritt für Schritt wie es funktioniert.
 
 <!--more-->
 
+<p class="fbgroup">
+Bevor ich anfange, empfehle ich Dir einen Blick in meine kostenlose <a href="https://www.facebook.com/groups/1116837278460772/">Facebook Gruppe</a>, bei der wir uns kostenlos, rund um das Thema SEO und Webdesign austauschen.
+</p>
+
+
 Den Artikel findest du ebenfalls als Audio-Datei.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/402998673&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
