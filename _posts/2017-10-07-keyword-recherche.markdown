@@ -27,6 +27,11 @@ Dafür musst du kein bezahltes Keyword-Tool nutzen.</p>
 
 <!--more-->
 
+<p class="fbgroup">
+Bevor ich anfange, empfehle ich Dir einen Blick in meine kostenlose <a href="https://www.facebook.com/groups/1116837278460772/">Facebook Gruppe</a>, bei der wir uns kostenlos, rund um das Thema SEO und Webdesign austauschen.
+</p>
+
+
 Aber von vorn:
 
 <strong>Was ist Keyword-Recherche eigentlich?</strong>
