@@ -29,6 +29,10 @@ Doch ist es nicht so, dass Backlinks nicht alles sind? Jedenfalls wird das doch 
 
 <strong>Falsch gedacht.</strong>
 
+<p class="fbgroup">
+Bevor ich anfange, empgehle ich Dir einen Blick in meine kostenlose Facebook Gruppe, bei der wir uns kostenlos, rund um
+das Thema SEO und Webdesign austauschen.
+</p>
 
 
 <img src="/img/2018-Illustration.png" alt="illustration-2018" width="200px">
