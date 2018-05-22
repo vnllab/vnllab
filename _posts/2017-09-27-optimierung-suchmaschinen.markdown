@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  Optimierung für Suchmaschinen | Insider Tipps - vnllab.com
+title:  Optimierung für Suchmaschinen | Wertvolle Insider Tipps
 date:   2018-01-17 22:04:27
 time: 2018-01-17
 categories: webdesign
@@ -15,13 +15,13 @@ description: Skyscraper Technique, Interne Links oder potentielle Verlinker. Nut
 
 <img src="/img/optimierung-für-suchmaschinen-titelbild.jpg" alt="optimierung-für-suchmaschinen-titelbild" title="optimierung-für-suchmaschinen">
 
-
+<p>
 Heute zeige ich dir, wie man eine Webseite innerhalb kürzester Zeit für Suchmaschinen optimiert.
-
+<br><br>
 <strong>Was dich am meisten freuen wird:</strong>
-
+<br><br>
 Das alles ohne vorher Backlinks generiert zu haben. Diese Tipps funktionieren und du kannst diese Technik ganz leicht selbst anwenden.
-
+<br><br>
 Lass mich dir also Schritt für Schritt wie es funktioniert.
 
 <!--more-->
@@ -30,8 +30,9 @@ Lass mich dir also Schritt für Schritt wie es funktioniert.
 Bevor ich anfange, empfehle ich Dir einen Blick in meine kostenlose <a href="https://www.facebook.com/groups/1116837278460772/">Facebook Gruppe</a>, bei der wir uns kostenlos, rund um das Thema SEO und Webdesign austauschen.
 </p>
 
-
+<br><br>
 Den Artikel findest du ebenfalls als Audio-Datei.
+</p>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/402998673&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
@@ -42,9 +43,11 @@ Den Artikel findest du ebenfalls als Audio-Datei.
 
 <a href="https://de.wikipedia.org/wiki/Suchmaschinenoptimierung#Onpage-Optimierung" rel="noopener" target="_blank">On-Page SEO</a> scheint manchmal sehr kompliziert zu sein, es gibt so vieles auf das man achten muss.
 
+<p>
 So muss es aber nicht sein, im Prinzip ist es ganz einfach. Damit On-Page SEO funktioniert, muss man nur ein paar Dinge beachten.
-
+<br><br>
 Fangen wir wie folgt an:
+</p>
 
 <h3 class="point">1. Öffne ein neues Dokument auf dem PC oder nimm Papier und Stift zur Hand.</h3>
 
@@ -55,6 +58,8 @@ Also angenommen, du hast letzte Woche einen Blog-Artikel über Urlaubstipps 2018
 Urlaubstipps 2018
 
 Mach das für jede Seite.
+
+
 
 <img src="/img/keyword-auslegung.png" alt="keyword-auslegung" width="548" height="375" class="alignnone size-full wp-image-1079" />
 
