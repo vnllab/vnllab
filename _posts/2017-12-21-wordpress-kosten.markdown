@@ -23,6 +23,10 @@ Wo ist der Haken?
 
 <!--more-->
 
+<p class="fbgroup">
+Bevor ich anfange, empfehle ich Dir einen Blick in meine kostenlose <a href="https://www.facebook.com/groups/1116837278460772/">Facebook Gruppe</a>, bei der wir uns kostenlos mit anderen Mitgliedern, rund um das Thema SEO, Webdesign & WordPress austauschen.
+</p>
+
 <strong>Wie bei den meisten technischen Dingen, war es am Ende eigentlich doch ganz leicht.</strong>
 
 Mit diesem Artikel möchte ich Dir deshalb zeigen, wie ich es innerhalb kürzester Zeit geschafft habe, die WordPress Welt besser verstehen zu können.

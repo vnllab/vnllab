@@ -27,7 +27,7 @@ Lass mich dir also Schritt für Schritt wie es funktioniert.
 <!--more-->
 
 <p class="fbgroup">
-Bevor ich anfange, empfehle ich Dir einen Blick in meine kostenlose <a href="https://www.facebook.com/groups/1116837278460772/">Facebook Gruppe</a>, bei der wir uns kostenlos, rund um das Thema SEO und Webdesign austauschen.
+Bevor ich anfange, empfehle ich Dir einen Blick in meine kostenlose <a href="https://www.facebook.com/groups/1116837278460772/">Facebook Gruppe</a>, bei der wir uns kostenlos mit anderen Mitgliedern, rund um das Thema SEO, Webdesign & WordPress austauschen.
 </p>
 
 <br><br>

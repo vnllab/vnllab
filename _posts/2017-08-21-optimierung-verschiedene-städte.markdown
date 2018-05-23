@@ -24,6 +24,10 @@ wir zeigen dir, wie du es ohne viel Aufwand schaffst. Falls du mehr Hilfe benöt
 
 <!--more-->
 
+<p class="fbgroup">
+Bevor ich anfange, empfehle ich Dir einen Blick in meine kostenlose <a href="https://www.facebook.com/groups/1116837278460772/">Facebook Gruppe</a>, bei der wir uns kostenlos mit anderen Mitgliedern, rund um das Thema SEO, Webdesign & WordPress austauschen.
+</p>
+
 Das ganze nennt sich dann “Service-Area Business”.
 
 Anders als sogenannte <a href="https://de.wikipedia.org/wiki/Brick_and_Mortar" target="_blank" rel="noopener">Brick and Mortar Stores</a> , also Geschäfte die auch über Geschäfts und Verkaufsräume verfügen (wie z. B. der örtliche Friseur), operiert ein <strong>Service Area Business</strong> beim Kunden selbst (z.b. ein Personal-Trainer oder ein Schlüsseldienst). Statt, dass die Kunden ins Geschäft kommen, kommt der Service also zum Kunden.
