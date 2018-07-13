@@ -3,7 +3,7 @@ layout: blog
 title:  "SEO 2018 - 10 [wichtige Faktoren] für dieses Jahr - vnllab.com"
 date:   2017-11-04 21:08:27
 time: 2017-11-04
-categories: webdesign
+categories: seo
 author: Lukasz Adam
 permalink: /seo-dieses-jahr/
 excerpt_separator: <!--more-->

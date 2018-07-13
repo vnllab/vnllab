@@ -3,7 +3,7 @@ layout: blog
 title:  WordPress Kosten - mit 8 nützlichen Tipps zum WP Profi (Updated 2018)
 date:   2017-12-04 21:08:27
 time: 2017-11-04
-categories: webdesign
+categories: seo
 author: Lukasz Adam
 permalink: /wordpress-kosten/
 excerpt_separator: <!--more-->

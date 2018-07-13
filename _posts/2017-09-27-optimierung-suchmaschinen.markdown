@@ -1,22 +1,22 @@
 ---
 layout: blog
-title:  Optimierung für Suchmaschinen | Wertvolle Insider Tipps
+title:  Top 10 Suchmaschinenoptimierung | Wertvolle Insider Tipps
 date:   2018-01-17 22:04:27
 time: 2018-01-17
-categories: webdesign
+categories: seo
 author: Lukasz Adam
-permalink: /optimierung-für-suchmaschinen/
+permalink: /top-10-suchmaschinenoptimierung/
 excerpt_separator: <!--more-->
 description: Skyscraper Technique, Interne Links oder potentielle Verlinker. Nutzt die effektivsten SEO Methoden um deiner Website ein besseres Ranking zu verschaffen. Jede möchte unter die Top 10 und ich zeige dir, wie solch eine Suchmaschinenoptimierung aussehen muss.
 
 ---
 
-<h1 class="entry-title-content">Wie optimiere ich meine Website für Suchmaschinen?</h1>
+<h1 class="entry-title-content">Wie optimiere ich meine Website für Googles Top 10 ?</h1>
 
 <img src="/img/optimierung-für-suchmaschinen-titelbild.jpg" alt="optimierung-für-suchmaschinen-titelbild" title="optimierung-für-suchmaschinen">
 
 <p>
-Heute zeige ich dir, wie man eine Webseite innerhalb kürzester Zeit für Suchmaschinen optimiert.
+Heute zeige ich dir, wie man eine Webseite innerhalb kürzester Zeit für die Top 10 der Suchmaschinen optimiert.
 <br><br>
 <strong>Was dich am meisten freuen wird:</strong>
 <br><br>

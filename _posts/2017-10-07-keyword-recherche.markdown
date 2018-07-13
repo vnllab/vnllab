@@ -3,7 +3,7 @@ layout: blog
 title:  Keyword Recherche | einfach Keywords finden - vnllab.com
 date:   2017-10-17 22:04:27
 time: 2017-10-17
-categories: webdesign
+categories: seo
 author: Lukasz Adam
 permalink: /keyword-recherche/
 excerpt_separator: <!--more-->

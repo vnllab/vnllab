@@ -3,7 +3,7 @@ layout: blog
 title:  "Local SEO 2018 - Suchmaschinenoptimierung (Update) - vnllab.com"
 date:   2017-12-07 21:08:27
 time: 2017-11-04
-categories: webdesign
+categories: seo
 author: Lukasz Adam
 permalink: /local-seo/
 excerpt_separator: <!--more-->
