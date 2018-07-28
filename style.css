@@ -33,6 +33,10 @@ img {
     text-align: center;
 }
 
+.einleitung a {
+    padding: 1em;
+}
+
 #time-content {
   display: flex;
 justify-content: space-between;
