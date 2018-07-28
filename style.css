@@ -52,12 +52,15 @@ width: 100%;
 
 .wiesbaden {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .wiesbaden img {
     width: 250px;
     height: 250px;
     object-fit: cover;
+    margin: .5em;
 }
 
 .title-page {
