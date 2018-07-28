@@ -3,7 +3,7 @@ layout: blog
 title:  "Webdesign Trends 2018 | User Interface Design Tipps [vnllab.com]"
 date:   2018-01-17 22:04:27
 time: 2018-01-17
-categories: webdesign
+categories: SEO
 author: Lukasz Adam
 permalink: /webdesign-trends/
 excerpt_separator: <!--more-->
