@@ -28,6 +28,11 @@ img {
     margin-bottom: .5em;}
 
 
+.einleitung {
+    padding: 2em;
+    text-align: center;
+}
+
 #time-content {
   display: flex;
 justify-content: space-between;
