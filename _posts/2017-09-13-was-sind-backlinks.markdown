@@ -3,7 +3,7 @@ layout: blog
 title:  "Was sind SEO Backlinks? Erklärt es mir, als wäre ich 5. [inkl. Tipps]"
 date:   2017-09-13 22:04:27
 time: 2018-01-17
-categories: seo
+categories: SEO
 author: Lukasz Adam
 permalink: /was-sind-backlinks/
 excerpt_separator: <!--more-->

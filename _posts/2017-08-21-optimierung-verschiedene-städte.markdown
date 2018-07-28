@@ -3,7 +3,7 @@ layout: blog
 title:  "Optimierung auf verschiedene Städte - SEO Marketing Tipps inkl. Infografik"
 date:   2017-08-21 22:04:27
 time: 2018-01-17
-categories: seo
+categories: SEO
 author: Lukasz Adam
 permalink: /optimierung-verschiedene-staedte/
 excerpt_separator: <!--more-->
