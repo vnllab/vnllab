@@ -24,6 +24,10 @@ Effektives <strong>User Interface Design</strong> ist 2017 das A und O jeder Web
 
 Aber wie verbessert man die eigene Seite?
 
+<p class="fbgroup">
+Bevor ich anfange, empfehle ich Dir einen Blick in meine kostenlose <a href="https://www.facebook.com/groups/1116837278460772/">Facebook Gruppe</a>, bei der wir uns kostenlos mit anderen Mitgliedern, rund um das Thema SEO, Webdesign & WordPress austauschen.
+</p>
+
 <!--more-->
 
 Wenn wir <a href="http://vnllab.com/webseiten/" target="_blank" rel="noopener">Webseiten erstellen</a>, achten wir besonders auf eine angenehme <strong>UX (User Experience)</strong> und eine ansprechende <strong>UI (User Interface - Benutzeroberfläche).</strong> Für all diejenigen, die bereits eine Webseite besitzen, listen wir hier einige hilfreiche Tipps, rund um das Design solcher Benutzeroberflächen auf. Du wirst sehen, es sind die kleinen Dinge, die den Unterschied machen und das gilt auch für Webseiten.

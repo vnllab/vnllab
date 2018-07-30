@@ -40,7 +40,9 @@ Was, wenn ihm nur die beliebtesten Schüler “Hallo” sagen?
 
 Ein Backlink ist nichts anderes, wie ein einfaches “Hallo” in der Schule. Umso mehr Mitschüler dich grüßen und umso beliebter diese Mitschüler sind, umso beliebter wirst du.
 
-<a href="https://www.facebook.com/groups/1116837278460772/" target="_blank" rel="noopener"><img class="alignnone size-full wp-image-429" src="http://vnllab.com/wp-content/uploads/2017/09/facebook-gruppe.jpg" alt="facebook-gruppe" width="815" height="360" /></a>
+<p class="fbgroup">
+Bevor ich anfange, empfehle ich Dir einen Blick in meine kostenlose <a href="https://www.facebook.com/groups/1116837278460772/">Facebook Gruppe</a>, bei der wir uns kostenlos mit anderen Mitgliedern, rund um das Thema SEO, Webdesign & WordPress austauschen.
+</p>
 
 <strong>Es gibt noch mehr Varianten...</strong>
 
