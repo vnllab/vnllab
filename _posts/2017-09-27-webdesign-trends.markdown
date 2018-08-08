@@ -30,7 +30,7 @@ Bevor ich anfange, empfehle ich Dir einen Blick in meine kostenlose <a href="htt
 
 <!--more-->
 
-Wenn wir <a href="http://vnllab.com/webseiten/" target="_blank" rel="noopener">Webseiten erstellen</a>, achten wir besonders auf eine angenehme <strong>UX (User Experience)</strong> und eine ansprechende <strong>UI (User Interface - Benutzeroberfläche).</strong> Für all diejenigen, die bereits eine Webseite besitzen, listen wir hier einige hilfreiche Tipps, rund um das Design solcher Benutzeroberflächen auf. Du wirst sehen, es sind die kleinen Dinge, die den Unterschied machen und das gilt auch für Webseiten.
+Wenn ich als <a href="/" target="_blank" rel="noopener">SEO Wiesbaden</a> Webseiten erstelle, achte ich besonders auf eine angenehme <strong>UX (User Experience)</strong> und eine ansprechende <strong>UI (User Interface - Benutzeroberfläche).</strong> Für all diejenigen, die bereits eine Webseite besitzen, liste ich hier einige hilfreiche Tipps, rund um das Design solcher Benutzeroberflächen auf. Du wirst sehen, es sind die kleinen Dinge, die den Unterschied machen und das gilt auch für Webseiten.
 
 Falls du dir den Artikel lieber als Video anschauen möchtest:
 
