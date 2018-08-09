@@ -18,7 +18,7 @@ Ist es eigentlich möglich, für verschiedene Städte gleichzeitig zu ranken? Wa
 
 Es gibt einige Fragen die im Vorfeld beantwortet werden müssen, aber keine Sorge,
 
-wir zeigen dir, wie du es ohne viel Aufwand schaffst. Falls du mehr Hilfe benötigst, nutz unseren <a href="http://vnllab.com/seo/" target="_blank" rel="noopener">SEO Service aus Wiesbaden</a>.
+ich zeige dir, wie du es ohne viel Aufwand schaffst. Als <a href="http://vnllab.com/seo/" target="_blank" rel="noopener">SEO Wiesbaden</a> weiß ich, auf was es bei den Google Maps Listing ankommt.
 
 <strong>Fall Nr #1. Wie betreibe ich local SEO auf verschiedene Städte, ohne einen eigenen Verkaufsraum zu besitzen?</strong>
 
@@ -118,8 +118,4 @@ Wenn du in diesem Fall keinen Service in diesen Umkreisen anbietest und auch üb
 
 City Landing Pages solltet du hier nur nutzen, wenn du in den jeweiligen Städten auch etwas anbietest. Ansonsten erstell Anfahrtswege aus den jeweiligen Städten für die du ranken möchtest.
 
-Wir hoffen das bringt ein wenig Licht ins dunkeln. Falls du noch Fragen hast, schreib uns einfach.
-
-Abschließend nochmal eine Infografik, mit allen drei Möglichkeiten auf einem Blick.
-
-<a href="http://vnllab.com/wp-content/uploads/2017/08/seo-optmierung-verschiedener-städte-bild.jpg"><img class="alignnone wp-image-135 size-full" src="http://vnllab.com/wp-content/uploads/2017/08/seo-optmierung-verschiedener-städte-bild.jpg" alt="seo-optimierung-verschiedener-städte-bild" width="2275" height="1450" /></a>
+Ich hoffe das bringt ein wenig Licht ins dunkeln. Falls du noch Fragen hast, schreib mir einfach.
