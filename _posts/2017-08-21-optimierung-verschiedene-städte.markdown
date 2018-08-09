@@ -94,8 +94,6 @@ Das Beste ist es dann, die gesamte Seite auf diesen Bezirk anzupassen. Die Servi
 
 Auch wenn die Konkurrenz manchmal 20 verschiedene Städte auflistet. Seh das nicht als Benchmark an. Im Gegenteil, seh das als etwas an, was du besser machen kannst, um dir einen Vorteil zu verschaffen.
 
-<a href="https://www.facebook.com/groups/1116837278460772/"><img class="alignnone size-full wp-image-429" src="http://vnllab.com/wp-content/uploads/2017/09/facebook-gruppe.jpg" alt="facebook-gruppe" width="815" height="360" /></a>
-
 <strong>Was ist, wenn ich eigene Geschäftsräume besitze?</strong>
 
 Verfügst du über richtige Geschäfte an den Standorten, hast du auch die Chance in den lokalen Suchergebnissen zu landen. Meldt dazu für jeden Standort eine eigene Google My Business Page an inkl. Fotos, einer individuellen Beschreibung und Öffnungszeiten.
