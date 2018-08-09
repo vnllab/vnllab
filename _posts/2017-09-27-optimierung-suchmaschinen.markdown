@@ -444,12 +444,6 @@ Angenommen Google sieht einen Text wie diesen hier:
 
 Durch Wörter wie Rapper, Kanye-West (Mentor des Rappers), Music oder Label, weiß Google, dass deine Seite über den Rapper handelt.
 
-Wenn Google so etwas hier sieht:
-
-<img src="/img/LSI-Wörter-Wikipedia-Beispiel.png" alt="LSI-Wörter-Wikipedia-Beispiel" width="1206" height="675" class="alignnone size-full wp-image-1072" />
-
-weiß es, dass du über das Säugetier schreibst.
-
 Wie du solche passenden Wörter in deinen Text einfügen kannst?
 
 Ganz einfach:
@@ -516,5 +510,3 @@ Sie interessieren sich also für dein Thema. Sie haben bereits zu ähnlichen Art
 Schreib ihnen dann, dass du auf der Suche nach einem bestimmten Thema gesehen hast, dass sie zu einem deiner Lieblingsartikel verlinkt haben. Informier sie dann, dass du einen ähnlichen Artikel geschrieben hast, der zusätzlich eine Infografik enthält. Vielleicht wäre das ja interessant für sie ;)
 
 Das sind meine SEO Geheimnisse - Wie immer gilt, wenn du noch mehr kennst, schreib mir!
-
-Ansonsten schau bei meiner <a href="https://www.facebook.com/groups/1116837278460772/" target="_blank" rel="noopener">kostenlosen Facebook Gruppe</a> vorbei. Viele SEO`s warten auf dich und beantworten deine Fragen - kostenlos.
