@@ -6,9 +6,11 @@
 /wordpress-wiesbaden/            /service/wordpress-wiesbaden
 /wordpress/                      /service/wordpress-wiesbaden
 /webentwicklung-wiesbaden/       /service/webentwicklung-wiesbaden
-/index.html                      /
-/optimierung-für-suchmaschinen/             /top-10-suchmaschinenoptimierung/           
-/service/seo-wiesbaden                      /service/local-seo-wiesbaden
+/index.html                      /      
+/service/seo-wiesbaden           /service/local-seo-wiesbaden
+
+/optimierung-für-suchmaschinen/  /top-10-suchmaschinenoptimierung/     
+/optimierung-fuer-suchmaschinen/  /top-10-suchmaschinenoptimierung/
 
 
 http://flamboyant-jones-c50ee9.netlify.com/*    https://www.vnllab.com/.com/:splat 301!

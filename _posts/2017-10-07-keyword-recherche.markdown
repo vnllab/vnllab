@@ -1,7 +1,6 @@
 ---
 layout: blog
-title:  Keyword Recherche | einfach Keywords finden - vnllab.com
-date:   2017-10-17 22:04:27
+title:  "Keyword Recherche - einfach Keywords finden | SEO Wiesbaden"
 time: 2017-10-17
 categories: SEO
 author: Lukasz Adam

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "Webdesign Trends 2018 | User Interface Design Tipps [vnllab.com]"
+title:  "Webdesign Trends 2018 - Design Tipps | SEO Wiesbaden"
 date:   2018-01-17 22:04:27
 time: 2018-01-17
 categories: SEO

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "SEO 2018 - 10 [wichtige Faktoren] für dieses Jahr - vnllab.com"
+title:  "SEO 2018 - 10 [wichtige Faktoren] für dieses Jahr | SEO Wiesbaden"
 date:   2017-11-04 21:08:27
 time: 2017-11-04
 categories: SEO

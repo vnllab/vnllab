@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "Optimierung auf verschiedene Städte - SEO Marketing Tipps inkl. Infografik"
+title:  "Optimierung auf verschiedene Städte - Tipps inkl. Infografik | SEO Wiesbaden"
 date:   2017-08-21 22:04:27
 time: 2018-01-17
 categories: SEO

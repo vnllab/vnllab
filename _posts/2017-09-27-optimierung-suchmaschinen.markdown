@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  Top 10 Suchmaschinenoptimierung | Wertvolle Insider Tipps
+title:  "Top 10 Suchmaschinenoptimierung - Wertvolle Tipps | SEO Wiesbaden"
 date:   2018-01-17 22:04:27
 time: 2018-01-17
 categories: SEO
