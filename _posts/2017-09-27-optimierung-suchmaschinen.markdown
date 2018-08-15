@@ -36,6 +36,8 @@ Den Artikel findest du ebenfalls als Audio-Datei.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/402998673&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1a3CShmojUE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 <h2>#1: On-Page SEO: Die optimale Website</h2>
 
